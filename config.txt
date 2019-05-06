@@ -1,6 +1,6 @@
 owner=449339893626306563
-prefix=ca
-game= caplay
+prefix=sn
+game= snplay
 stayinchannel=true
 songinstatus=false
 token=NTczNTUwOTg2NDA1MDg1MjI0.XMsfHQ.xMDjnXsba2QHAfnZLBco5SrxXXk
